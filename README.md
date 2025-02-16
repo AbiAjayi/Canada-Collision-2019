@@ -1,2 +1,7 @@
 # Canada-Collision-2019
-Canada Collision 2019 analyzes vehicle collision data from Canada in 2019 to identify trends and predict accident hotspots.
+## Objective
+
+Canada Collision 2019 is a project focused on analyzing and visualizing data related to vehicular collisions in Canada from the year 2019. This project utilizes data science and machine learning techniques to identify patterns, predict accident hotspots, and gain insights into factors influencing traffic safety. Key features include data cleaning, exploratory analysis, predictive modeling, and interactive visualizations.
+
+
+
