@@ -10,5 +10,34 @@ This project uses the vehicle collision dataset for 2019, which was made publicl
 
  ### Data Transformation & Cleaning process
  The dataset initially contained numeric values, requiring extensive data standardization and multiple joins. I utilized Excel’s VLOOKUP function to match each numeric value with its corresponding text string from the data dictionary. Additionally, I handled several missing values to ensure data completeness. 
+
+ ## Insights
+|  Month    |   Total Collision   |   Total Fatality   |    Total Injury   |
+----------------------------------------------------------------------------
+ January    |
+ ----------------------------------------------------------------------------
+ February
+ -----------------------------------------------------------------------------
+ March
+ -----------------------------------------------------------------------------
+ April
+ -----------------------------------------------------------------------------
+ May
+ -----------------------------------------------------------------------------
+ June
+ ------------------------------------------------------------------------------
+ July
+ ------------------------------------------------------------------------------
+ August
+ ------------------------------------------------------------------------------
+ September
+ ------------------------------------------------------------------------------
+ October
+ ------------------------------------------------------------------------------
+ Novemeber
+ -------------------------------------------------------------------------------
+ December
+ 
+ 
  
 
