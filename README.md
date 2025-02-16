@@ -11,8 +11,8 @@ This project uses the vehicle collision dataset for 2019, which was made publicl
  ### Data Transformation & Cleaning process
  The dataset initially contained numeric values, requiring extensive data standardization and multiple joins. I utilized Excel’s VLOOKUP function to match each numeric value with its corresponding text string from the data dictionary. Additionally, I handled several missing values to ensure data completeness. 
 
- ## Insights
-|  Month    |   Total Collision   |   Total Fatality   |    Total Injury   |
+ ## Insight 1
+|  Month    |   Total Collision   |   Total Fatality   |    Total Injury   |             
 |-----------|---------------------|--------------------|-------------------|
 | January   |25,000               | 115                |135,000
 | February  |22,000               | 93                 |11,000
@@ -26,8 +26,18 @@ This project uses the vehicle collision dataset for 2019, which was made publicl
 | October   |25,000               | 176                |13,000
 | November  |23,000               | 176                |12,000
 | December  |23,000               | 147                |12,000
- 
- 
+
+## Insight 2
+| Weather Conditions | Total Collision |
+|--------------------|-----------------|
+|Clear Sunny         | 193,680         |
+|Overcast & Cloudy   | 24,822          |
+| Raining            | 22,824          |
+| Snowing            | 18,369          |
+| Visibility Limitations | 5617        |
+
 ## Dashboard
 View the dashboard 
-[Here](https://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a)
+
+[Here]![image](https://github.com/user-attachments/assets/c298c238-0592-4b30-89ad-3e0e60e95ec0)
+
