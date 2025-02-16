@@ -20,8 +20,12 @@ This project uses the vehicle collision dataset for 2019, which was made publicl
 | April     |17,000               | 98                 |9,000 
 | May       |20,000               | 135                |11,000
 | June      |24,000               | 173                |12,000 
- 
- 
+| July      |25,000               | 191                |13,000
+| August    |25,000               | 202                |13,000
+| September |23,000               | 161                |12,000
+| October   |25,000               | 176                |13,000
+| November  |23,000               | 176                |12,000
+| December  |23,000               | 147                |12,000
  
  
 
