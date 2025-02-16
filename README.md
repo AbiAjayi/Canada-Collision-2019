@@ -28,4 +28,6 @@ This project uses the vehicle collision dataset for 2019, which was made publicl
 | December  |23,000               | 147                |12,000
  
  
-
+## Dashboard
+View the dashboard 
+[Here](https://open.canada.ca/data/en/dataset/1eb9eba7-71d1-4b30-9fb1-30cbdab7e63a)
