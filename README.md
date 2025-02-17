@@ -35,6 +35,23 @@ This project uses the vehicle collision dataset for 2019, which was made publicl
 | Raining            | 22,824          |
 | Snowing            | 18,369          |
 | Visibility Limitations | 5617        |
+| Freezing Rain | 1860 |
+| Strong wind | 969 |
+
+## Insights 3
+
+| Collision Spots | Total Collisions |
+|-----------------|------------------|
+| Intersection public roads | 116,692 |
+| Non Intersections, mid-block area | 108,745 |
+| Parking lots, private drive way | 9721 |
+| Brdige or Overpass | 2,220 |
+| Ramp | 881 |
+| Railroad Level Crossing | 765 |
+| Tunnel or Underpass | 351 |
+| Traffic circle | 294 |
+| Express Lane | 81 |
+| Passing Lane | 42 |
 
 ## Dashboard
 View the dashboard 
